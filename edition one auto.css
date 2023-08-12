@@ -70,12 +70,13 @@ a{
 }
 
 
+
  .c{
    width: 98%;
    height: 370px;
    border: red 5px solid;
-   background-image: url("");
-   background-size: 460px 100%;
+   background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/363629408_825430729176272_3719792103709299652_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=6vmfzy6m4fgAX_c6qIO&_nc_ht=scontent-hbe1-1.xx&oh=03_AdSt-vmRsEZKWlGUWijJN6mpMuFA4TBBE6CQDGJU6M6Rcg&oe=64FF595B");
+   background-size: 470px 100%;
    background-repeat: no-repeat;
    background-position: left;
    padding-right: 20px;

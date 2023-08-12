@@ -1,0 +1,481 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(black,#222);
+}
+
+.ppp{
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+    height: 110px;
+    padding-top: 15px;
+    margin-bottom: 40px;
+    text-align: right;
+    padding-right: 10px;
+    line-height:50px;
+ }
+ 
+
+.aa{
+    height: 410PX;
+    width: 70%;
+    border: 5PX RED solid;
+    color: white;
+    font-size: 45px;
+    text-align: right;
+    padding: 10px;
+    background-color:red ;
+    border-radius: 20PX;
+    margin-left: 15%;
+    margin-top: 50px;
+    line-height:80px;
+}
+
+.ab{
+    height: 790PX;
+    width: 1053px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/363629408_825430729176272_3719792103709299652_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=6vmfzy6m4fgAX_c6qIO&_nc_ht=scontent-hbe1-1.xx&oh=03_AdSt-vmRsEZKWlGUWijJN6mpMuFA4TBBE6CQDGJU6M6Rcg&oe=64FF595B");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.ac{
+    height: 790PX;
+    width: 1053px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/364229718_301900262422815_859617004271315029_n.jpg?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=WYWYPtfbtvAAX-lK9Z2&_nc_ht=scontent-hbe1-1.xx&oh=03_AdTKwtwgX8VaR_q6WwfFLbAVb1CORykKBURa6lprRJOZtg&oe=64FF65DF");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.ad{
+    height: 790PX;
+    width: 1053px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365869790_999697161373570_5540648516475148314_n.jpg?_nc_cat=110&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=D9GebdLbigMAX9GpR-K&_nc_ht=scontent-hbe1-1.xx&oh=03_AdSV0nn43rB1GNlstVXAWXd9UhaDDBDUD48j3yrrVsGvDQ&oe=64FF4969");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.ae{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365895234_860127549057994_3357417913579594091_n.jpg?_nc_cat=110&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=QXtwBNqJbgUAX-bKjXG&_nc_ht=scontent-hbe1-1.xx&oh=03_AdT5MKIpicarcdnpw-QkqytSwoIwFc3btOAgieJphfCNvw&oe=64FF7D6C");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.af{
+    height: 790PX;
+    width: 790px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/364394752_151981931265493_305993940464412798_n.jpg?_nc_cat=105&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Z9icMbn4lNgAX843aRZ&_nc_ht=scontent-hbe1-1.xx&oh=03_AdT8ClcYvanyQTweQySBZhaRgKz0jrHRa571Czg5oN4YIA&oe=64FF691A");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 27%;
+    margin-top: 50px;
+}
+
+.ag{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/364199248_975786016960757_8540017033237241005_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=k8xf8D7cO9EAX8_w4lX&_nc_ht=scontent-hbe1-1.xx&oh=03_AdR1edtca5V0-_FGQel6SP1LpahOKKaXFDtYM-gFApIZtw&oe=64FF7F5C");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.ah{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365886556_1527216911348233_8834334208997844121_n.jpg?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=0zp3ez7iNx0AX8llpUs&_nc_oc=AQkWKor-gSFtK5sKas_hrXulkFsM_PJ342FtLE2nSoTvD-DzQ_z944e5Wkm-t79IuYc&_nc_ht=scontent-hbe1-1.xx&oh=03_AdSIm1OGwQygW8XJxoXpgTrpfvSBAvV3YMZEe7L_2_Jr7g&oe=64FF5CBF");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.ai{
+    height: 790PX;
+    width: 592.5px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365452184_749441970524223_5887345517540699051_n.jpg?_nc_cat=107&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=jdl3y1-mrB0AX8d4p1D&_nc_oc=AQk0gKeZNAUn0mR-r_UCHunCDXQUd-dtUiW_egca90DKnVDKdsryioOfJ4o3WBSNwsI&_nc_ht=scontent-hbe1-1.xx&oh=03_AdQjh159nttVp6wbIe0qqb4DeE3nCPUnhXC-jGo_MkI7EA&oe=64FF5D67");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.aj{
+    height: 790PX;
+    width: 1053px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365766500_779114037339320_5606555852591622066_n.jpg?_nc_cat=103&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Kh56TaFHxvQAX_ir6xZ&_nc_ht=scontent-hbe1-1.xx&oh=03_AdThfqs6h0KA-6700NzVvq6CCyb6P6TxXHU47bf5rWgXDw&oe=64FF76FB");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.ak{
+    height: 790PX;
+    width: 790px;
+    border: 5PX RED solid;
+    background-image: url("https://scontent-hbe1-1.xx.fbcdn.net/v/t1.15752-9/365171359_667771785373114_3842737832683231307_n.jpg?_nc_cat=101&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Tk1hblM8VxwAX9yecIW&_nc_oc=AQn8mkhjhtxD9InP9OD2zVmQhHAR3OHEI3qnJxMbbWUwS_Brai7gRkhv3xxLEICK7lQ&_nc_ht=scontent-hbe1-1.xx&oh=03_AdSyW0cFZMbDoy93-EyxGW2EqptE-xoIJpxJ8shP8bxG6A&oe=64FF7D15");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 27%;
+    margin-top: 50px;
+}
+
+
+
+
+
+@media screen and (max-width:1100px)  {
+    .ppp{
+        height: 100PX;
+        font-size: 30px;
+        line-height:45px;
+        padding-top: 10px;
+    }
+
+    .aa{
+        font-size: 40px;
+        line-height:52px;
+    }
+
+    .ab{
+        height:700px;
+        width:90%;
+        margin-left:5%;
+    }
+
+    .ac{       
+        height:700px;
+        width:90%;
+        margin-left:5%;
+    }
+
+    .ad{
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+
+    .ae{
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+
+    .af{
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+
+    .ag{        
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+
+    .ah{
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+
+    .ai{
+        height:700px;
+        width:50%;
+        margin-left:25%;
+    }
+}
+
+@media screen and (max-width:800px){
+
+    .ppp{
+        height: 130PX;
+        font-size: 27px;
+        line-height:43px;
+        padding-top: 7px;
+    }
+
+    .aa{
+        font-size: 33px;
+        line-height:52px;
+    }
+
+    .ab{
+        height:600px;
+        width:98%;
+        margin-left:.5%;
+    }
+
+    .ac{       
+        height:600px;
+        width:98%;
+        margin-left:.5%;
+    }
+
+    .ad{
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+
+    .ae{
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+
+    .af{
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+
+    .ag{        
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+
+    .ah{
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+
+    .ai{
+        height:600px;
+        width:60%;
+        margin-left:20%;
+    }
+}
+
+@media screen and (max-width:500px){
+
+    .ppp{
+        width:139% ;
+        height: 140PX;
+        font-size: 27px;
+        line-height:43px;
+        padding-top: 7px;
+    }
+
+    .aa{
+        font-size: 33px;
+        line-height:52px;
+        width:120% ;
+        margin-left:7%;
+    }
+
+    .ab{
+        height:450px;
+        width:135%;
+        margin-left:2%;
+    }
+
+    .ac{       
+        height:450px;
+        width:135%;
+        margin-left:2%;
+    }
+
+    .ad{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .ae{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .af{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .ag{        
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .ah{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .ai{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+}
+
+@media screen and (max-width:400px){
+
+    .ppp{
+        width:147.3% ;
+        height: 140PX;
+        font-size: 26.5px;
+        line-height:43px;
+        padding-top: 7px;
+    }
+
+    .aa{
+        font-size: 31px;
+        line-height:52px;
+        width:130% ;
+        margin-left:6%;
+    }
+
+    .ab{
+        height:400px;
+        width:140%;
+        margin-left:4%;
+    }
+
+    .ac{       
+        height:400px;
+        width:140%;
+        margin-left:4%;
+    }
+
+    .ad{
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+
+    .ae{
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+
+    .af{
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+
+    .ag{        
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+
+    .ah{
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+
+    .ai{
+        height:600px;
+        width:130%;
+        margin-left:7%;
+    }
+}
+
+
+
+@media screen and (max-width:350px){
+
+    .ppp{
+        width:161% ;
+        height: 140PX;
+        font-size: 26.5px;
+        line-height:43px;
+        padding-top: 7px;
+    }
+
+    .aa{
+        font-size: 30.3px;
+        line-height:52px;
+        width:147% ;
+        margin-left:4%;
+    }
+
+    .ab{
+        height:360px;
+        width:153.5%;
+        margin-left:4%;
+    }
+
+    .ac{       
+        height:360px;
+        width:153.5%;
+        margin-left:4%;
+    }
+
+    .ad{
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+
+    .ae{
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+
+    .af{
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+
+    .ag{        
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+
+    .ah{
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+
+    .ai{
+        height:600px;
+        width:150%;
+        margin-left:6%;
+    }
+}
+
+
+
+
+
+
