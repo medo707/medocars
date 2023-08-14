@@ -11,17 +11,17 @@ body{
     background-color: red;
     color: white;
     font-size: xx-large;
-    height: 90px;
-    padding-top: 20px;
+    height: 110px;
+    padding-top: 15px;
     margin-bottom: 40px;
     text-align: right;
     padding-right: 10px;
-    line-height:40px;
+    line-height:50px;
  }
  
 
 .aa{
-    height: 520PX;
+    height: 410PX;
     width: 70%;
     border: 5PX RED solid;
     color: white;
@@ -30,101 +30,122 @@ body{
     padding: 10px;
     background-color:red ;
     border-radius: 20PX;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
     margin-left: 15%;
     margin-top: 50px;
-    line-height:58px;
+    line-height:80px;
 }
 
 .ab{
-    height: 800PX;
-    width: 70%;
+    height: 790PX;
+    width: 1053px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 15%;
+    margin-left: 20%;
     margin-top: 50px;
 }
 
 .ac{
-    height: 800PX;
-    width: 70%;
+    height: 790PX;
+    width: 1053px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 15%;
+    margin-left: 20%;
     margin-top: 50px;
 }
 
 .ad{
-    height: 800PX;
-    width: 40%;
+    height: 790PX;
+    width: 1053px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 30%;
+    margin-left: 20%;
     margin-top: 50px;
 }
 
 .ae{
-    height: 800PX;
-    width: 40%;
+    height: 790PX;
+    width: 592px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 30%;
+    margin-left: 32%;
     margin-top: 50px;
 }
 
 .af{
-    height: 800PX;
-    width: 40%;
+    height: 790PX;
+    width: 790px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 30%;
+    margin-left: 27%;
     margin-top: 50px;
 }
 
 .ag{
-    height: 800PX;
-    width: 30%;
+    height: 790PX;
+    width: 592px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 35%;
+    margin-left: 32%;
     margin-top: 50px;
 }
 
 .ah{
-    height: 800PX;
-    width: 30%;
+    height: 790PX;
+    width: 592px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 35%;
+    margin-left: 32%;
     margin-top: 50px;
 }
 
 .ai{
-    height: 800PX;
-    width: 50%;
+    height: 790PX;
+    width: 592.5px;
     border: 5PX RED solid;
     background-image: url("");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin-left: 25%;
+    margin-left: 32%;
     margin-top: 50px;
 }
+
+.aj{
+    height: 790PX;
+    width: 1053px;
+    border: 5PX RED solid;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.ak{
+    height: 790PX;
+    width: 790px;
+    border: 5PX RED solid;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 27%;
+    margin-top: 50px;
+}
+
+
 
 
 
@@ -137,56 +158,68 @@ body{
     }
 
     .aa{
-        font-size: 40px;
-        line-height:52px;
+        font-size: 30px;
+        line-height:60px;
     }
 
     .ab{
-        height:700px;
-        width:90%;
-        margin-left:5%;
+        height:648px;
+        width:864;
+        margin-left:8%;
     }
 
     .ac{       
-        height:700px;
-        width:90%;
-        margin-left:5%;
+        height:648px;
+        width:864;
+        margin-left:8%;
     }
 
     .ad{
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:648px;
+        width:864px;
+        margin-left:8%;
     }
 
     .ae{
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .af{
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:790px;
+        width:790px;
+        margin-left:12%;
     }
 
     .ag{        
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ah{
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ai{
-        height:700px;
-        width:50%;
-        margin-left:25%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
+    }
+
+    .aj{
+        height:648px;
+        width:864px;
+        margin-left:8%;
+    }
+
+    .ak{
+        height:790px;
+        width:790px;
+        margin-left:12%;
     }
 }
 
@@ -200,56 +233,68 @@ body{
     }
 
     .aa{
-        font-size: 33px;
+        font-size: 29px;
         line-height:52px;
     }
 
     .ab{
-        height:600px;
-        width:98%;
-        margin-left:.5%;
+        height:456px;
+        width:608px;
+        margin-left:11%;
     }
 
     .ac{       
-        height:600px;
-        width:98%;
-        margin-left:.5%;
+        height:456px;
+        width:608px;
+        margin-left:11%;
     }
 
     .ad{
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:456px;
+        width:608px;
+        margin-left:11%;
     }
 
     .ae{
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .af{
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:608px;
+        width:608px;
+        margin-left:10.5%;
     }
 
     .ag{        
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ah{
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ai{
-        height:600px;
-        width:60%;
-        margin-left:20%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
+    }
+
+    .aj{
+        height:456px;
+        width:608px;
+        margin-left:11%;
+    }
+
+    .ak{
+        height:608px;
+        width:608px;
+        margin-left:10.5%;
     }
 }
 
@@ -264,7 +309,7 @@ body{
     }
 
     .aa{
-        font-size: 33px;
+        font-size: 27px;
         line-height:52px;
         width:120% ;
         margin-left:7%;
@@ -283,9 +328,9 @@ body{
     }
 
     .ad{
-        height:640px;
-        width:120%;
-        margin-left:10%;
+        height:450px;
+        width:135%;
+        margin-left:2%;
     }
 
     .ae{
@@ -295,9 +340,9 @@ body{
     }
 
     .af{
-        height:640px;
-        width:120%;
-        margin-left:10%;
+        height:450px;
+        width:450px;
+        margin-left:17%;
     }
 
     .ag{        
@@ -317,6 +362,18 @@ body{
         width:120%;
         margin-left:10%;
     }
+
+    .aj{
+        height:450px;
+        width:135%;
+        margin-left:2%;
+    }
+
+    .ak{
+        height:450px;
+        width:450px;
+        margin-left:17%;
+    }
 }
 
 @media screen and (max-width:400px){
@@ -330,7 +387,7 @@ body{
     }
 
     .aa{
-        font-size: 31px;
+        font-size: 25px;
         line-height:52px;
         width:130% ;
         margin-left:6%;
@@ -349,39 +406,51 @@ body{
     }
 
     .ad{
-        height:600px;
-        width:130%;
-        margin-left:7%;
+        height:400px;
+        width:140%;
+        margin-left:4%;
     }
 
     .ae{
         height:600px;
-        width:130%;
-        margin-left:7%;
+        width:110%;
+        margin-left:19%;
     }
 
     .af{
-        height:600px;
-        width:130%;
-        margin-left:7%;
+        height:400px;
+        width:400px;
+        margin-left:21%;
     }
 
     .ag{        
         height:600px;
-        width:130%;
-        margin-left:7%;
+        width:110%;
+        margin-left:19%;
     }
 
     .ah{
         height:600px;
-        width:130%;
-        margin-left:7%;
+        width:110%;
+        margin-left:19%;
     }
 
     .ai{
         height:600px;
-        width:130%;
-        margin-left:7%;
+        width:110%;
+        margin-left:19%;
+    }
+
+    .aj{
+        height:400px;
+        width:140%;
+        margin-left:4%;
+    }
+
+    .ak{
+        height:400px;
+        width:400px;
+        margin-left:21%;
     }
 }
 
@@ -398,7 +467,7 @@ body{
     }
 
     .aa{
-        font-size: 30.3px;
+        font-size: 26px;
         line-height:52px;
         width:147% ;
         margin-left:4%;
@@ -417,42 +486,54 @@ body{
     }
 
     .ad{
-        height:600px;
-        width:150%;
-        margin-left:6%;
+        height:360px;
+        width:153.5%;
+        margin-left:4%;
     }
 
     .ae{
         height:600px;
-        width:150%;
-        margin-left:6%;
+        width:120%;
+        margin-left:20%;
     }
 
     .af{
-        height:600px;
-        width:150%;
-        margin-left:6%;
+        height:360px;
+        width:360px;
+        margin-left:25%;
     }
 
     .ag{        
         height:600px;
-        width:150%;
-        margin-left:6%;
+        width:120%;
+        margin-left:20%;
     }
 
     .ah{
         height:600px;
-        width:150%;
-        margin-left:6%;
+        width:120%;
+        margin-left:20%;
     }
 
     .ai{
         height:600px;
-        width:150%;
-        margin-left:6%;
+        width:120%;
+        margin-left:20%;
     }
-}
 
+    .aj{
+        height:360px;
+        width:153.5%;
+        margin-left:4%;
+    }
+
+    .ak{
+        height:360px;
+        width:360px;
+        margin-left:25%;
+    }
+
+}
 
 
 
