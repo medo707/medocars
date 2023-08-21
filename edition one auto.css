@@ -12,18 +12,6 @@ a{
    text-decoration:none;
 }
 
-.u{
-   background-color: red;
-   color: white;
-   font-size: xx-large;
-   height: 150px;
-   padding-top: 20px;
-   margin-bottom: 40px;
-   text-align: right;
-   padding-right: 10px;
-   line-height:35px;
-}
-
 
 .a{
    width: 98%;
@@ -37,7 +25,7 @@ a{
    background-color: #222;
    border-radius: 20PX;
    margin-left: 5px;
-   margin-top: 50px;
+   margin-top: 5px;
 }
 
 .ab{
@@ -476,7 +464,7 @@ a{
 
    .ab{
       margin-top: 310px;
-      font-size: xx-large;
+      font-size: x-large;
       margin-right: -8px;
    }
 
