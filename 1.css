@@ -21,7 +21,7 @@ body{
  
 
 .aa{
-    height: 410PX;
+    height: 470PX;
     width: 70%;
     border: 5PX RED solid;
     color: white;
@@ -39,7 +39,7 @@ body{
     height: 790PX;
     width: 1053px;
     border: 5PX RED solid;
-    background-image: url("");
+    background-image: url("WhatsApp Image 2023-08-24 at 4.16.22 PM.jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 20%;
@@ -50,10 +50,36 @@ body{
     height: 790PX;
     width: 1053px;
     border: 5PX RED solid;
-    background-image: url("");
+    background-image: url("1d6c1a2c-8298-4bb0-bc9b-06dc484a687b.jfif");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 20%;
+    margin-top: 50px;
+}
+
+
+
+.ae{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("6cd776f5-c81a-463e-b64b-d8d626f5c381.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+
+
+.ag{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("9fe22a27-475a-424d-bb57-07d130e7c12f.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
     margin-top: 50px;
 }
 
@@ -61,43 +87,10 @@ body{
     height: 790PX;
     width: 1053px;
     border: 5PX RED solid;
-    background-image: url("");
+    background-image: url("40ec2cad-ed09-4040-aeff-6ff1a03cfc3e.jfif");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 20%;
-    margin-top: 50px;
-}
-
-.ae{
-    height: 790PX;
-    width: 592px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 32%;
-    margin-top: 50px;
-}
-
-.af{
-    height: 790PX;
-    width: 790px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 27%;
-    margin-top: 50px;
-}
-
-.ag{
-    height: 790PX;
-    width: 592px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 32%;
     margin-top: 50px;
 }
 
@@ -105,45 +98,14 @@ body{
     height: 790PX;
     width: 592px;
     border: 5PX RED solid;
-    background-image: url("");
+    background-image: url("155ca292-1209-45ae-a1bf-ec48f16c14c6.jfif");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 32%;
     margin-top: 50px;
 }
 
-.ai{
-    height: 790PX;
-    width: 592.5px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 32%;
-    margin-top: 50px;
-}
 
-.aj{
-    height: 790PX;
-    width: 1053px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 20%;
-    margin-top: 50px;
-}
-
-.ak{
-    height: 790PX;
-    width: 790px;
-    border: 5PX RED solid;
-    background-image: url("");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 27%;
-    margin-top: 50px;
-}
 
 
 
@@ -160,6 +122,7 @@ body{
     .aa{
         font-size: 30px;
         line-height:60px;
+        height: 540px;
     }
 
     .ab{
@@ -235,6 +198,7 @@ body{
     .aa{
         font-size: 29px;
         line-height:52px;
+        height: 570px;
     }
 
     .ab{
@@ -313,6 +277,7 @@ body{
         line-height:52px;
         width:120% ;
         margin-left:7%;
+        height: 550px;
     }
 
     .ab{
@@ -391,6 +356,7 @@ body{
         line-height:52px;
         width:130% ;
         margin-left:6%;
+        height: 540px;
     }
 
     .ab{
@@ -471,6 +437,7 @@ body{
         line-height:52px;
         width:147% ;
         margin-left:4%;
+        height: 560px;
     }
 
     .ab{
