@@ -23,60 +23,37 @@ body{
 .aa{
     height: 470PX;
     width: 70%;
-    border: 5PX RED solid;
+    border: 5PX rgb(168, 22, 22) solid;
     color: white;
     font-size: 45px;
     text-align: right;
     padding: 10px;
-    background-color:red ;
+    background-color:rgb(168, 22, 22) ;
     border-radius: 20PX;
     margin-left: 15%;
     margin-top: 50px;
     line-height:80px;
 }
 
+
+
+
 .ab{
-    height: 790PX;
-    width: 1053px;
-    border: 5PX RED solid;
-    background-image: url("WhatsApp Image 2023-08-24 at 4.16.22 PM.jpeg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 20%;
-    margin-top: 50px;
-}
-
-.ac{
-    height: 790PX;
-    width: 1053px;
-    border: 5PX RED solid;
-    background-image: url("1d6c1a2c-8298-4bb0-bc9b-06dc484a687b.jfif");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    margin-left: 20%;
-    margin-top: 50px;
-}
-
-
-
-.ae{
     height: 790PX;
     width: 592px;
     border: 5PX RED solid;
-    background-image: url("6cd776f5-c81a-463e-b64b-d8d626f5c381.jfif");
+    background-image: url("368441999_1377405309533091_4936628278049837682_n.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 32%;
     margin-top: 50px;
 }
 
-
-
-.ag{
+.ac{
     height: 790PX;
     width: 592px;
     border: 5PX RED solid;
-    background-image: url("9fe22a27-475a-424d-bb57-07d130e7c12f.jfif");
+    background-image: url("368498751_319804567173476_7512606201425106986_n.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 32%;
@@ -85,12 +62,56 @@ body{
 
 .ad{
     height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("368518955_317037200854215_2248743763907482036_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.ae{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("368508940_1358174138185467_3714455332785792939_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.ak{
+    height: 790PX;
     width: 1053px;
     border: 5PX RED solid;
-    background-image: url("40ec2cad-ed09-4040-aeff-6ff1a03cfc3e.jfif");
+    background-image: url("WhatsApp Image 2023-08-26 at 9.17.18 PM (2).jpeg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 20%;
+    margin-top: 50px;
+}
+
+.af{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("370430138_968627911012051_6398732835798309863_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.ag{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("368398725_977907763464455_771370123512750247_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
     margin-top: 50px;
 }
 
@@ -98,12 +119,48 @@ body{
     height: 790PX;
     width: 592px;
     border: 5PX RED solid;
-    background-image: url("155ca292-1209-45ae-a1bf-ec48f16c14c6.jfif");
+    background-image: url("368142790_835609667834501_6547570340213367278_n.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-left: 32%;
     margin-top: 50px;
 }
+
+.ai{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("370460241_874667970741867_8768545079464718920_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.aj{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("370477425_817416529825312_2306195796791596522_n.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+.al{
+    height: 790PX;
+    width: 592px;
+    border: 5PX RED solid;
+    background-image: url("WhatsApp Image 2023-08-26 at 9.17.18 PM.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 32%;
+    margin-top: 50px;
+}
+
+
+
 
 
 
@@ -277,7 +334,7 @@ body{
         line-height:52px;
         width:120% ;
         margin-left:7%;
-        height: 550px;
+        height: 560px;
     }
 
     .ab{
@@ -356,7 +413,7 @@ body{
         line-height:52px;
         width:130% ;
         margin-left:6%;
-        height: 540px;
+        height: 550px;
     }
 
     .ab{
