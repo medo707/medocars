@@ -183,21 +183,21 @@ body{
     }
 
     .ab{
-        height:648px;
-        width:864;
-        margin-left:8%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ac{       
-        height:648px;
-        width:864;
-        margin-left:8%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ad{
-        height:648px;
-        width:864px;
-        margin-left:8%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ae{
@@ -206,10 +206,16 @@ body{
         margin-left:20%;
     }
 
+    .ak{
+        height:648px;
+        width:864;
+        margin-left:8%;
+    }
+
     .af{
         height:790px;
-        width:790px;
-        margin-left:12%;
+        width:592.5px;
+        margin-left:20%;
     }
 
     .ag{        
@@ -231,15 +237,16 @@ body{
     }
 
     .aj{
-        height:648px;
-        width:864px;
-        margin-left:8%;
+        height:790px;
+        width:592.5px;
+        margin-left:20%;
     }
 
-    .ak{
+
+    .al{
         height:790px;
-        width:790px;
-        margin-left:12%;
+        width:592.5px;
+        margin-left:20%;
     }
 }
 
@@ -259,21 +266,21 @@ body{
     }
 
     .ab{
-        height:456px;
-        width:608px;
-        margin-left:11%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ac{       
-        height:456px;
-        width:608px;
-        margin-left:11%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ad{
-        height:456px;
-        width:608px;
-        margin-left:11%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ae{
@@ -283,9 +290,9 @@ body{
     }
 
     .af{
-        height:608px;
-        width:608px;
-        margin-left:10.5%;
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 
     .ag{        
@@ -307,15 +314,21 @@ body{
     }
 
     .aj{
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
+    }
+
+    .ak{
         height:456px;
         width:608px;
         margin-left:11%;
     }
 
-    .ak{
-        height:608px;
-        width:608px;
-        margin-left:10.5%;
+    .al{
+        height:790px;
+        width:592.5px;
+        margin-left:12%;
     }
 }
 
@@ -338,21 +351,21 @@ body{
     }
 
     .ab{
-        height:450px;
-        width:135%;
-        margin-left:2%;
+        height:640px;
+        width:120%;
+        margin-left:10%;
     }
 
     .ac{       
-        height:450px;
-        width:135%;
-        margin-left:2%;
+        height:640px;
+        width:120%;
+        margin-left:10%;
     }
 
     .ad{
-        height:450px;
-        width:135%;
-        margin-left:2%;
+        height:640px;
+        width:120%;
+        margin-left:10%;
     }
 
     .ae{
@@ -362,9 +375,9 @@ body{
     }
 
     .af{
-        height:450px;
-        width:450px;
-        margin-left:17%;
+        height:640px;
+        width:120%;
+        margin-left:10%;
     }
 
     .ag{        
@@ -386,15 +399,21 @@ body{
     }
 
     .aj{
+        height:640px;
+        width:120%;
+        margin-left:10%;
+    }
+
+    .ak{
         height:450px;
         width:135%;
         margin-left:2%;
     }
 
-    .ak{
-        height:450px;
-        width:450px;
-        margin-left:17%;
+    .al{
+        height:640px;
+        width:120%;
+        margin-left:10%;
     }
 }
 
@@ -417,21 +436,21 @@ body{
     }
 
     .ab{
-        height:400px;
-        width:140%;
-        margin-left:4%;
+        height:600px;
+        width:110%;
+        margin-left:19%;
     }
 
     .ac{       
-        height:400px;
-        width:140%;
-        margin-left:4%;
+        height:600px;
+        width:110%;
+        margin-left:19%;
     }
 
     .ad{
-        height:400px;
-        width:140%;
-        margin-left:4%;
+        height:600px;
+        width:110%;
+        margin-left:19%;
     }
 
     .ae{
@@ -441,9 +460,9 @@ body{
     }
 
     .af{
-        height:400px;
-        width:400px;
-        margin-left:21%;
+        height:600px;
+        width:110%;
+        margin-left:19%;
     }
 
     .ag{        
@@ -465,15 +484,15 @@ body{
     }
 
     .aj{
-        height:400px;
-        width:140%;
-        margin-left:4%;
+        height:600px;
+        width:110%;
+        margin-left:19%;
     }
 
     .ak{
         height:400px;
-        width:400px;
-        margin-left:21%;
+        width:140%;
+        margin-left:4%;
     }
 }
 
@@ -498,21 +517,21 @@ body{
     }
 
     .ab{
-        height:360px;
-        width:153.5%;
-        margin-left:4%;
+        height:600px;
+        width:120%;
+        margin-left:20%;
     }
 
     .ac{       
-        height:360px;
-        width:153.5%;
-        margin-left:4%;
+        height:600px;
+        width:120%;
+        margin-left:20%;
     }
 
     .ad{
-        height:360px;
-        width:153.5%;
-        margin-left:4%;
+        height:600px;
+        width:120%;
+        margin-left:20%;
     }
 
     .ae{
@@ -522,9 +541,9 @@ body{
     }
 
     .af{
-        height:360px;
-        width:360px;
-        margin-left:25%;
+        height:600px;
+        width:120%;
+        margin-left:20%;
     }
 
     .ag{        
@@ -546,16 +565,23 @@ body{
     }
 
     .aj{
+        height:600px;
+        width:120%;
+        margin-left:20%;
+    }
+
+    .ak{
         height:360px;
         width:153.5%;
         margin-left:4%;
     }
 
-    .ak{
-        height:360px;
-        width:360px;
-        margin-left:25%;
+    .al{
+        height:600px;
+        width:120%;
+        margin-left:20%;
     }
+
 
 }
 
