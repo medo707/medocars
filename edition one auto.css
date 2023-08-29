@@ -59,14 +59,14 @@ a{
    text-align:right;
 }
 
-/*
+
 
  .c{
    width: 98%;
    height: 370px;
    border: red 5px solid;
-   background-image: url("");
-   background-size: 470px 100%;
+   background-image: url("370519530_626567406126526_4503966258891764366_n.jpg");
+   background-size: 460px 100%;
    background-repeat: no-repeat;
    background-position: left;
    padding-right: 20px;
@@ -151,6 +151,8 @@ a{
    line-height:60px;
    text-align:right;
 }
+
+/*
 
  .g{
    width: 98%;
@@ -307,7 +309,7 @@ a{
    .a{
       width: 96%;
       height: 970px;
-      background-size: 100% 570px;
+      background-size: 100% 560px;
       background-position: top;
    }
 
@@ -333,13 +335,13 @@ a{
    .c{
       width: 96%;
       height: 970px;
-      background-size: 100% 570px;
+      background-size: 100% 560px;
       background-position: top;
       margin-top:40px ;
    }
 
    .cb{
-      margin-top:580px;
+      margin-top:570px;
       line-height:65px;
    }
 
